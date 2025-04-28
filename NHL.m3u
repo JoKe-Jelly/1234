@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8EI1G.png",09:30 PM ET | Colorado Avalanche vs. Dallas Stars | 04/28/25
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=3uqSSjStRMjes5Y6RMwtvA&expires=1745901000&net=MTkzLjE5LjIwNi42Ng%3D%3D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lwclbtD.png",09:30 PM ET | Los Angeles Kings vs. Edmonton Oilers | 04/27/25
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=eoRbgmbr95QUFrykqdBetw&expires=1745814600&net=MTkzLjE5LjIwNi42Ng%3D%3D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NoY41q9.png",07:00 PM ET | Tampa Bay Lightning vs. Florida Panthers | 04/28/25
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=QotelAcxcU7bt-MvLhcaKg&expires=1745892000&net=MTkzLjE5LjIwNi42Ng%3D%3D
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8EI1G.png" group-title="ICE HOCKEY",09:30 PM ET | Colorado Avalanche vs. Dallas Stars | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=CW6ZRyV5W43uswTNNehjLw&expires=1745901000&net=MTk0LjIzMy4xMDAuMTcz
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NoY41q9.png" group-title="ICE HOCKEY",07:00 PM ET | Tampa Bay Lightning vs. Florida Panthers | 04/28/25
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=NW1EE9mFX9pSagkavUvq5g&expires=1745892000&net=MTk0LjIzMy4xMDAuMTcz
