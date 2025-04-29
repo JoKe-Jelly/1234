@@ -1,5 +1,24 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8EI1G.png",09:30 PM ET | Colorado Avalanche vs. Dallas Stars | 04/28/25
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=4D-QI-ro-eHZw54VVypy8w&expires=1745901000&net=NTcuMTI5LjUyLjExOA%3D%3D
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NoY41q9.png",07:00 PM ET | Tampa Bay Lightning vs. Florida Panthers | 04/28/25
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=AkfMZ6lvsVCzT99EH4nsXw&expires=1745892000&net=ODkuMTYzLjE0NS4xNjM%3D
+#EXTINF:-1-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",New Jersey Devils @ Carolina Hurricanes
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v12.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Ottawa Senators @ Toronto Maple Leafs
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Minnesota Wild @ Vegas Golden Knights
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png",Edmonton Oilers @ Los Angeles Kings
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/TBSEast/tracks-v1a1/mono.m3u8
