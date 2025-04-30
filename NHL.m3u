@@ -1,10 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png",7:00 PM ET | Montreal Canadiens - Washington Capitals
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" tvg-name="Montreal Canadiens vs Washington Capitals" ,7:00 PM ET | Montreal Canadiens - Washington Capitals
 https://locked.pixelserver.online/psportsgate/psportsgate100/137.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png",7:30 PM ET | Florida Panthers - Tampa Bay Lightning
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" tvg-name="Florida Panthers vs Tampa Bay Lightning" ,7:30 PM ET | Florida Panthers - Tampa Bay Lightning
 https://locked.pixelserver.online/psportsgate/psportsgate100/32.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png",9:30 PM ET | St. Louis Blues - Winnipeg Jets
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-Logo.png" tvg-name="St. Louis Blues vs Winnipeg Jets" ,9:30 PM ET | St. Louis Blues - Winnipeg Jets
 https://locked.pixelserver.online/psportsgate/psportsgate100/18.m3u8
+
