@@ -1,12 +1,3 @@
-#Logos
-#MLB      "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png"
-#NCAAF    "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-ncaaf.png"
-#NBA      "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png"
-#NFL      "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png"
-#NHL      "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png"
-#UFC      "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-ufc.png"
-#EVENT     "https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-fire.png"
-
 #EXTM3U
 
 #################### FOOTBALL ####################
@@ -242,4 +233,5 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItO
 
 #################### UFC ####################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-ufc.png" group-title="UFC", UFC Fight Pass [UK]
+https://wikinew.newkso.ru/wiki/fightpass/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
 https://wikinew.newkso.ru/wiki/fightpass/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
