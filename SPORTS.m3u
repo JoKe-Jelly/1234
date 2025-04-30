@@ -1,0 +1,90 @@
+#EXTM3U
+
+########## FOOTBALL ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nzWCuw3.jpeg" group-title="Football",15:00 ET | UCL: Barcelona vs Inter Milan
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OTRlYjAwNjVkMTdjLTdlZmItNmYwNC1iODZiLTBjMDBiMjcz/master.m3u8?md5=EjIqctdhkqmPf0NWZEBgVg&expires=1746050400&net=MjMuMjcuMTgzLjI2
+
+
+
+########## MLB ##########
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",11:10 | Tigers - Astros
+https://locked.pixelserver.online/psportsgate/psportsgate100/114.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",12:10 | Marlins - Dodgers
+https://locked.pixelserver.online/psportsgate/psportsgate100/118.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",12:10 | Braves - Rockies
+https://locked.pixelserver.online/psportsgate/psportsgate100/107.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",12:40 | Cardinals - Reds (Game 1)
+https://locked.pixelserver.online/psportsgate/psportsgate100/129.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",13:10 | Giants - Padres
+https://locked.pixelserver.online/psportsgate/psportsgate100/127.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",13:10 | Angels - Mariners
+https://locked.pixelserver.online/psportsgate/psportsgate100/117.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",15:10 | Twins - Guardians
+https://locked.pixelserver.online/psportsgate/psportsgate100/120.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",15:35 | Yankees - Orioles
+https://locked.pixelserver.online/psportsgate/psportsgate100/122.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",15:40 | Cubs - Pirates
+https://locked.pixelserver.online/psportsgate/psportsgate100/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",15:45 | Nationals - Phillies
+https://locked.pixelserver.online/psportsgate/psportsgate100/133.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",16:05 | Royals - Rays
+https://locked.pixelserver.online/psportsgate/psportsgate100/116.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",16:07 | Red Sox - Blue Jays
+https://locked.pixelserver.online/psportsgate/psportsgate100/108.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",16:10 | Diamondbacks - Mets
+https://locked.pixelserver.online/psportsgate/psportsgate100/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",16:40 | Brewers - White Sox
+https://locked.pixelserver.online/psportsgate/psportsgate100/119.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",17:05 | Athletics - Rangers
+https://locked.pixelserver.online/psportsgate/psportsgate100/123.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/07/mlb-logo.png" group-title="MLB",18:40 | Cardinals - Reds (Game 2)
+https://locked.pixelserver.online/psportsgate/psportsgate100/129.m3u8
+
+
+
+########## NBA ##########
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/gsw-hou/1280x720.png" group-title="NBA",19:30 ET | Warriors at Rockets
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=mIYDaY-6TB-DVpV6QdnNdw&expires=1746065700&net=MjMuMjcuMTgzLjEz
+
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/min-lal/1280x720.png" group-title="NBA",22:00 ET | Timberwolves at Lakers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjc3NWYxZjE5NTMxLWMzNGEtZjAyNC04ZjQ2LWFiYmRhMzc2/master.m3u8?md5=u-GEt4YeHAYW4jmm2b7zhw&expires=1746074700&net=MjMuMjcuMTgzLjIz
+
+
+
+########## NFL ##########
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="NFL",NFL Network
+https://hztnew.newkso.ru/hzt/eplayerNFLNetwork/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nfl-logo.png" group-title="NFL",NFL Redzone
+https://wikinew.newkso.ru/wiki/ustvnflredzone/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
+
+
+
+########## NHL ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mtepJZ.png" group-title="NHL",19:00 ET | Montreal Canadiens vs. Washington Capitals
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=fPDyhnvzBQ7zI5PUAaA67Q&expires=1746064800&net=MjMuMjcuMTgzLjg%3D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ENbvFc8.png" group-title="NHL",19:30 ET | Florida Panthers vs. Tampa Bay Lightning
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTU4ZjdlYzM5ODJhLTQxZjktNDI3NC0xYmJjLThmZTVhYzI3/master.m3u8?md5=YfKvTqzYNHuMB5F-g6oILw&expires=1746066600&net=MjMuMjcuMTgzLjI2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BgLGh0R.png" group-title="NHL",21:30 ET | St. Louis Blues vs. Winnipeg Jets
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=fQbSDXnaaA1B14nQhxE6wg&expires=1746073800&net=MjMuMjcuMTgzLjg%3D
+
+
+
+########## UFC ##########
