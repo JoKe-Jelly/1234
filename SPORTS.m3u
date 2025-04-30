@@ -202,6 +202,12 @@ https://locked.pixelserver.online/psportsgate/psportsgate100/124.m3u8
 
 
 #################### NBA ####################
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png group-title="NBA",NBA TV
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelserver.online/psportsgate/psportsgate100/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/gsw-hou/1280x720.png" group-title="NBA",19:30 ET | Warriors at Rockets
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=mIYDaY-6TB-DVpV6QdnNdw&expires=1746065700&net=MjMuMjcuMTgzLjEz
 
@@ -223,6 +229,12 @@ https://wikinew.newkso.ru/wiki/ustvnflredzone/mono.m3u8|Referer=https://topembed
 
 
 #################### NHL ####################
+#EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png group-title="NHL",NHL Network
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelserver.online/psportsgate/psportsgate100/4.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mtepJZ.png" group-title="NHL",19:00 ET | Montreal Canadiens vs. Washington Capitals
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=fPDyhnvzBQ7zI5PUAaA67Q&expires=1746064800&net=MjMuMjcuMTgzLjg%3D
 
