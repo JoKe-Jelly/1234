@@ -212,7 +212,10 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjc3NWYxZjE5NTMxLWMzNGEtZ
 
 #################### NFL ####################
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png group-title="NFL",NFL Network
-https://zeko/zeko/premium405/mono.m3u8|Referer=https://caq21harderv991gpluralplay.xyz/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://caq21harderv991gpluralplay.xyz
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://locked.pixelserver.online/psportsgate/psportsgate100/2.m3u8
 
 #EXTINF:-1 tvg-logo=https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png group-title="NFL",NFL Redzone
 https://wikinew.newkso.ru/wiki/ustvnflredzone/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
