@@ -25,6 +25,96 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
 #https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=yxfJu2_oRfMUFsPXclQudA&expires=1746128100&net=MTA5LjIwMS4xNTIuMTY4
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • Arizona Diamondbacks - Philadelphia Phillies (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/106.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • Arizona Diamondbacks - Philadelphia Phillies (HOME)
+https://locked.pixelsport.to/psportsgate/psportsgate100/124.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • Kansas City Royals - Baltimore Orioles (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/116.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • Kansas City Royals - Baltimore Orioles (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/135.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • San Diego Padres - Pittsburgh Pirates (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/126.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • San Diego Padres - Pittsburgh Pirates (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/125.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • Tampa Bay Rays - New York Yankees (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/130.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:05 ET • Tampa Bay Rays - New York Yankees (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/122.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:07 ET • Cleveland Guardians - Toronto Blue Jays (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/112.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:07 ET • Cleveland Guardians - Toronto Blue Jays (HOME)
+https://locked.pixelsport.to/psportsgate/psportsgate100/132.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:10 ET • Athletics - Miami Marlins (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/123.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:10 ET • Athletics - Miami Marlins (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/118.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:10 ET • Detroit Tigers - Los Angeles Angels (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/114.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:10 ET • Detroit Tigers - Los Angeles Angels (HOME)
+https://locked.pixelsport.to/psportsgate/psportsgate100/117.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:10 ET • Minnesota Twins - Boston Red Sox (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/120.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:10 ET • Minnesota Twins - Boston Red Sox (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/108.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:20 ET • Los Angeles Dodgers - Atlanta Braves (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/134.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",19:20 ET • Los Angeles Dodgers - Atlanta Braves (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/107.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:05 ET • Seattle Mariners - Texas Rangers (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/128.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:05 ET • Seattle Mariners - Texas Rangers (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/131.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:10 ET • Chicago Cubs - Milwaukee Brewers (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/109.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:10 ET • Chicago Cubs - Milwaukee Brewers (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/119.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:10 ET • Houston Astros - Chicago White Sox (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/115.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:10 ET • Houston Astros - Chicago White Sox (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/110.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:15 ET • New York Mets - St. Louis Cardinals (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/121.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:15 ET • New York Mets - St. Louis Cardinals (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/129.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:40 ET • Washington Nationals - Cincinnati Reds (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/133.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",20:40 ET • Washington Nationals - Cincinnati Reds (HOME)
+https://locked.pixelserver.online/psportsgate/psportsgate100/111.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",22:15 ET • Colorado Rockies - San Francisco Giants (AWAY)
+https://locked.pixelsport.to/psportsgate/psportsgate100/113.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",22:15 ET • Colorado Rockies - San Francisco Giants (HOME)
+https://locked.pixelsport.to/psportsgate/psportsgate100/127.m3u8
+
 
 #############################################################################################################################
 ############################################################ NBA ############################################################
