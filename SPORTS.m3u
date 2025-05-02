@@ -37,13 +37,13 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZ
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+#https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL",•• NFL Redzone
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
+#https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 
 
 #############################################################################################################################
