@@ -1,7 +1,7 @@
 #EXTM3U
 
 #################### FOOTBALL ####################
-#EXTINF:-1 tvg-logo="https://www.mancitycore.com/wp-content/uploads/2019/10/Man-City-vs-Wolves-preview.jpg" group-title="Football",15:00 ET | EPL: Manchester City vs Wolverhampton Wanderers
+#EXTINF:-1 tvg-logo="https://www.mancitycore.com/wp-content/uploads/2019/10/Man-City-vs-Wolves-preview.jpg" group-title="Football | 5.2.25",15:00 ET | EPL: Manchester City vs Wolverhampton Wanderers
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
@@ -78,7 +78,7 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktY
 
 
 #################### NBA ####################
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="NBA",21:00 ET | Rockets at Warrriors
+#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="NBA | 5.2.25",21:00 ET | Rockets at Warrriors
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
@@ -102,7 +102,7 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 
 
 #################### NHL ####################
-#EXTINF:-1 tvg-logo="https://wp.clutchpoints.com/wp-content/uploads/2025/04/Jets-vs.-Blues-Game-3-prediction-odds-pick-for-Stanley-Cup-Playoffs-2025.jpg" group-title="NHL",20:00 ET | Winnipeg Jets vs. St. Louis Blues
+#EXTINF:-1 tvg-logo="https://wp.clutchpoints.com/wp-content/uploads/2025/04/Jets-vs.-Blues-Game-3-prediction-odds-pick-for-Stanley-Cup-Playoffs-2025.jpg" group-title="NHL | 5.2.25",20:00 ET | Winnipeg Jets vs. St. Louis Blues
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
