@@ -9,7 +9,7 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZ
 
 
 #################### MLB ####################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ICmHqWZ.png" group-title="MLB",12:35 ET | Chicago Cubs vs. Pittsburgh Pirates
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",12:35 ET | Chicago Cubs vs. Pittsburgh Pirates
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
@@ -18,7 +18,7 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZ
 
 
 #################### NBA ####################
-#EXTINF:-1 tvg-logo="https://cdn.nba.com/davinci/images/team-matchups/nba/latest/ced/hou-gsw/1280x720.png" group-title="NBA | 5.2.25",21:00 ET | Rockets at Warrriors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA | 5.2.25",21:00 ET | Rockets at Warrriors
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
@@ -57,4 +57,4 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItM
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=aiLgtgj1EpiGbdfSPvaIEw&expires=1746189148
+#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=aiLgtgj1EpiGbdfSPvaIEw&expires=1746189148
