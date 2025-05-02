@@ -13,7 +13,7 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZ
 #############################################################################################################################
 ############################################################ MLB ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MBL",• MLB TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB • 5.2.25",• MLB TV
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -29,7 +29,7 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #############################################################################################################################
 ############################################################ NBA ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",• NBA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA • 5.2.25",• NBA TV
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -45,13 +45,13 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZ
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL",• NFL Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL• 5.2.25",• NFL Network
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL",•• NFL Redzone
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL • 5.2.25",•• NFL Redzone
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -61,7 +61,7 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZ
 #############################################################################################################################
 ############################################################ NHL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL",• NHL NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL • 5.2.25",• NHL NETWORK
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
