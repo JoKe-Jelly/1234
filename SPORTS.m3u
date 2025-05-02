@@ -1,30 +1,11 @@
 #EXTM3U
 
 #################### FOOTBALL ####################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HdLSbKy.png" group-title="Football",15:00 ET | UECL: Djurgården vs Chelsea
+#EXTINF:-1 tvg-logo="https://img.freepik.com/premium-photo/premier-league-lion-logo-vector-banner-logo-illustration_895118-25213.jpg" group-title="Football",15:00 ET | EPL: Manchester City vs Wolverhampton Wanderers
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjU3NzE0MTBhZGY0LWRkOWEtOGQ1NC0zYzk2LTE5N2VkYWVk/master.m3u8?md5=c_0Ey5H0NC-qur1WnDm7bA&expires=1746136800&net=MTA5LjIwMS4xNTIuMTY4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NL9WDCe.png" group-title="Football",15:00 ET | UECL: Real Betis vs Fiorentina
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODE3YWU2NmY3MWI2LTc5ODktMmQzNC05MGQ5LTIwZTFjODYy/master.m3u8?md5=c_0Ey5H0NC-qur1WnDm7bA&expires=1746136800&net=MTA5LjIwMS4xNTIuMTY4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AmQyscS.png" group-title="Football",15:00 ET | UEL: Athletic Bilbao vs Manchester United
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO0UmYwAjN1QWM3MWL3UmZi1iNmBDNtIGO2IWLwMGMwImM3MzL.m3u8?md5=G81sdlboXOwiLDU6Xr4q7Q&expires=1746169318
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lqcI6kj.png" group-title="Football",15:00 ET | UEL: Tottenham vs Bodø/Glimt
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Yjc2ODU3YWUzNjc2LWRiY2ItMGUxNC1hZDBjLWUyMDVkZTAz/master.m3u8?md5=c_0Ey5H0NC-qur1WnDm7bA&expires=1746136800&net=MTA5LjIwMS4xNTIuMTY4
-
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=Mg_-8hxeZ5PEErOxsNaFRg&expires=1746232110
 
 
 #################### MLB ####################
