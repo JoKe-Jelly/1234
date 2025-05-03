@@ -63,13 +63,13 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/1.m3u8
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL • 5.2.25",• NFL Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL • 5.3.25",• NFL Network
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL • 5.2.25",•• NFL Redzone
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL • 5.3.25",•• NFL Redzone
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
