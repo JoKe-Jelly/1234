@@ -105,22 +105,15 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="NHL",5.3|2000ET • Colorado Avalanche vs. Dallas Stars
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="NHL",5.4|1900ET • St. Louis Blues vs Winnipeg Jets
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTU4ZjdlYzM5ODJhLTQxZjktNDI3NC0xYmJjLThmZTVhYzI3/master.m3u8?md5=f2deEyqq74H0-1EM7iQw9Q&expires=1746327600&net=MTQ5LjIyLjk0LjY0
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=e6ioAlUCm0ZiDto7cI-Z2g&expires=1746410400&net=MTQ5LjIyLjk0LjY0
 
 
 #############################################################################################################################
-############################################################ UFL ############################################################
+############################################################ UFC ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-ufl.png" group-title="UFL",5.2|2000ET • St. Louis BattleHawks vs Arlington Renegades
-#https://streamedsu-proxy.hf.space/watch/YWxwaGEvc3QtbG91aXMtYmF0dGxlaGF3a3MtdnMtYXJsaW5ndG9uLXJlbmVnYWRlcy8y
-
-
-##############################################################################################################################
-############################################################ MISC ############################################################
-##############################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-misc.png" group-title="Misc",• UFC Fight Pass [UK]
 #https://wikinew.newkso.ru/wiki/fightpass/mono.m3u8|Referer=https://topembed.pw/|User-Agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1|Origin=https://topembed.pw
