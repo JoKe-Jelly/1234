@@ -1,10 +1,5 @@
 #EXTM3U
 
-################################################################################################################################
-############################################################ Boxing ############################################################
-################################################################################################################################
-
-
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
@@ -12,25 +7,7 @@
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmEwYTUyYmUwNDMwLTIyNDktMjQxNC1lYzM5LWI0YmJlZTFj/master.m3u8?md5=fihY8BTC9ZpLMnTuqqqnig&expires=1746374069
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.4|0900ET • EPL: Brighton vs Newcastle
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=fihY8BTC9ZpLMnTuqqqnig&expires=1746374069
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.4|0900ET • EPL: West Ham United vs Tottenham
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YmI2MjVjZGQxOTgyLTZkNTktNGFkNC02MzZiLWZmZjdkNTI3/master.m3u8?md5=AZ392tkgrm11s0VNdOW7Xg&expires=1746374074
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.4|1130ET • EPL: Chelsea vs Liverpool
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=NTCRZVYCOx8Pk0grlLZ32w&expires=1746374078
+#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmEwYTUyYmUwNDMwLTIyNDktMjQxNC1lYzM5LWI0YmJlZTFj/master.m3u8?md5=fihY8BTC9ZpLMnTuqqqnig&expires=1746374069
 
 
 ###################################################################################################################################
@@ -40,7 +17,7 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZ
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=uqLb_qbDPcn9xypwrRgxZA&expires=1746247275
+#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=uqLb_qbDPcn9xypwrRgxZA&expires=1746247275
 
 
 #############################################################################################################################
@@ -58,37 +35,7 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
 #https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=yxfJu2_oRfMUFsPXclQudA&expires=1746128100&net=MTA5LjIwMS4xNTIuMTY4
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • New York Mets vs St. Louis Cardinals
-https://v3.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Kansas City Royals vs Baltimore Orioles
-https://v13.thetvapp.to/hls/mlb-17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Seattle Mariners vs Texas Rangers
-https://v15.thetvapp.to/hls/mlb-13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Colorado Rockies vs San Francisco Giants
-https://v14.thetvapp.to/hls/mlb-27/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Houston Astros vs Chicago White Sox
-https://v3.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Los Angeles Dodgers vs Atlanta Braves
-https://v16.thetvapp.to/hls/mlb-28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Tampa Bay Rays vs New York Yankees
-https://v1.thetvapp.to/hls/mlb-15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • New York Mets vs St. Louis Cardinals
-https://v16.thetvapp.to/hls/mlb-08/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Oakland Athletics vs Miami Marlins
-https://v17.thetvapp.to/hls/mlb-07/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Detroit Tigers vs Los Angeles Angels
-https://v13.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • San Diego Padres vs Pittsburgh Pirates
-https://v8.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Chicago Cubs vs Milwaukee Brewers
-https://v17.thetvapp.to/hls/mlb-16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Cleveland Guardians vs Toronto Blue Jays
-https://v18.thetvapp.to/hls/mlb-12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Minnesota Twins vs Boston Red Sox
-https://v3.thetvapp.to/hls/mlb-22/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Arizona Diamondbacks vs Philadelphia Phillies
-https://v18.thetvapp.to/hls/mlb-18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.4|?ET • Washington Nationals vs Cincinnati Reds
+
 
 
 #############################################################################################################################
@@ -104,13 +51,13 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/1.m3u8
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWQzYzYzYjM0ZjIyLTcyMDktZmQyNC1iMzU4LTgxODY0ODFk/master.m3u8?md5=xBu3wfI5GLJKAH1jemnqGg&expires=1746410746
+#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWQzYzYzYjM0ZjIyLTcyMDktZmQyNC1iMzU4LTgxODY0ODFk/master.m3u8?md5=xBu3wfI5GLJKAH1jemnqGg&expires=1746410746
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.4|2230ET • Warriors vs Rockets
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=kSQ69b9vCfJmcFJ0qkPJLA&expires=1746411002
+#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmRmYzE0MTdkMzJiLTdlZGItZmQxNC0yZGM4LWFiNDQ1NTU5/master.m3u8?md5=kSQ69b9vCfJmcFJ0qkPJLA&expires=1746411002
 
 
 #############################################################################################################################
@@ -138,11 +85,11 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL",5.4|1900ET • St. Louis Blues vs Winnipeg Jets
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL",5.5|20:00ET • Florida Panthers vs Toronto Maple Leafs
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWRmNDBkOTYyMmVhLTQxY2EtNTI4NC04NDdiLWE3NTI4MWM2/master.m3u8?md5=e6ioAlUCm0ZiDto7cI-Z2g&expires=1746410400&net=MTQ5LjIyLjk0LjY0
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=aJwX5DGE3cRvm8OFzflQfA&expires=1746500400&net=MTQ5LjIyLjk0LjY0
 
 
 #############################################################################################################################
@@ -159,4 +106,4 @@ https://wikinew.newkso.ru/wiki/fightpass/mono.m3u8|Referer=https://topembed.pw/|
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmU2YTVhYjZkMTQ5LTRiM2ItZmZmNC05ZDMxLWViYjMwNTIy/master.m3u8?md5=BcYz2Vuf2AGszynw_5p9wg&expires=1746421200&net=MTQ5LjIyLjk0LjY0
+#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmU2YTVhYjZkMTQ5LTRiM2ItZmZmNC05ZDMxLWViYjMwNTIy/master.m3u8?md5=BcYz2Vuf2AGszynw_5p9wg&expires=1746421200&net=MTQ5LjIyLjk0LjY0
