@@ -9,6 +9,30 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=EvK2HmYLq69q6hgq4mz9kQ&expires=1746484243
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.8|15:00ET • Bristol City vs Sheffield United
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=YCp6fqNgEqlfSAHfLQWZ3A&expires=1746741600&net=MTQzLjQ3LjU5LjExNQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.9|15:00ET • Coventry vs Sunderland
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=1s1f_9X9fJisULh8Ebn1RA&expires=1746828000&net=MTQzLjQ3LjU5LjExNQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.12|15:00ET • Sheffield United vs Bristol City
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=y9ZLQhLP2d5ZUZ3X7A3aIQ&expires=1747087200&net=MTQzLjQ3LjU5LjExNQ%3D%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.13|15:00ET • Sunderland vs Coventry
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=Tmbr7EY4WBKGsBlEa2we4w&expires=1747173600&net=MTQzLjQ3LjU5LjExNQ%3D%3D
+
 
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
