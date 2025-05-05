@@ -3,11 +3,11 @@
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.4|0900ET • EPL: Brentford vs Manchester United
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.5|1500ET • EPL: Crystal Palace vs Nottingham Forest
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmEwYTUyYmUwNDMwLTIyNDktMjQxNC1lYzM5LWI0YmJlZTFj/master.m3u8?md5=fihY8BTC9ZpLMnTuqqqnig&expires=1746374069
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1Y2U0YThlZWM1MjcyLTVkMmItZTBiNC1lYzJjLTcxNzM0YzM3/master.m3u8?md5=EvK2HmYLq69q6hgq4mz9kQ&expires=1746484243
 
 
 ###################################################################################################################################
@@ -35,6 +35,26 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
 #https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=yxfJu2_oRfMUFsPXclQudA&expires=1746128100&net=MTA5LjIwMS4xNTIuMTY4
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Los Angeles Dodgers vs Miami Marlins
+https://v17.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Cleveland Guardians vs Washington Nationals
+https://v3.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Houston Astros vs Milwaukee Brewers
+https://v5.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • San Diego Padres vs New York Yankees
+https://v8.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • San Francisco Giants vs Chicago Cubs
+https://v1.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Chicago White Sox vs Kansas City Royals
+https://v1.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • New York Mets vs Arizona Diamondbacks
+https://v3.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Cincinnati Reds vs Atlanta Braves
+https://v18.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Pittsburgh Pirates vs St. Louis Cardinals
+https://v12.thetvapp.to/hls//tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.5|?ET • Seattle Mariners vs Oakland Athletics
+https://v15.thetvapp.to/hls//tracks-v1a1/mono.m3u8
 
 
 
