@@ -37,6 +37,9 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZ
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
 ###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-f1.png" group-title="Formula 1",• F1 - Sky Sport F1
+https://ott-s3.udptv.net/stream/sky/skysportf1/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-f1.png" group-title="Formula 1",5.4|16:00ET • F1: Miami GP Race
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
