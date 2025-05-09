@@ -3,19 +3,19 @@
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png",5.9|15:00ET | Coventry vs Sunderland
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.9|15:00ET | Coventry vs Sunderland
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=rWbH_Pu4pNpUDWThOgh5hg&expires=1746828000&net=NDUuMTUxLjE2Mi4xOTg%3D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png",5.12|15:00ET | Sheffield United vs Bristol City
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.12|15:00ET | Sheffield United vs Bristol City
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZGRlNC00MGQ0LTEzZmFhNTYx/master.m3u8?md5=QdBgso-B4BVmiK27iFShrA&expires=1747087200&net=NDUuMTUxLjE2Mi4xOTg%3D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png",5.13|15:00ET | Sunderland vs Coventry
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-football.png" group-title="Football",5.13|15:00ET | Sunderland vs Coventry
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
