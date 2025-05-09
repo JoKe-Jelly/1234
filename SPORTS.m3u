@@ -151,8 +151,5 @@ https://null.blank
 ##############################################################################################################################
 ############################################################ MISC ############################################################
 ##############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-misc.png" group-title="Misc",5.4|20:00ET • Fight Night Int: Inoue vs Cardenas
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
-#https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmU2YTVhYjZkMTQ5LTRiM2ItZmZmNC05ZDMxLWViYjMwNTIy/master.m3u8?md5=BcYz2Vuf2AGszynw_5p9wg&expires=1746421200&net=MTQ5LjIyLjk0LjY0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-misc.png" group-title="Misc",5.9|08:30ET • ONE Friday Night Fights 107
+https://ott-s1.udptv.net/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
