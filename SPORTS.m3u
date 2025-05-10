@@ -61,10 +61,10 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ODI3YjQ1YjQ1Yzc2LTM5NGEtZ
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
 ###################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-f1.png" group-title="Formula 1",• Sky Sports F1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/F1.png" group-title="Formula 1",• Sky Sports F1
 https://a1xs.vip/2000005
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-f1.png" group-title="Formula 1",5.4|16:00ET - F1: Miami GP Race
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/F1.png" group-title="Formula 1",5.4|16:00ET - F1: Miami GP Race
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.38 Mobile Safari/537.36 EdgA/134.0.3124.105
@@ -74,13 +74,13 @@ https://a1xs.vip/2000005
 #############################################################################################################################
 ############################################################ MLB ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",• MLB TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/MLB.png" group-title="MLB",• MLB TV
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-mlb.png" group-title="MLB",5.7|12:05ET - Cleveland Guardians vs Washington Nationals
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/MLB.png" group-title="MLB",5.7|12:05ET - Cleveland Guardians vs Washington Nationals
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.3179.54
@@ -90,19 +90,19 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #############################################################################################################################
 ############################################################ NBA ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",• NBA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NBA.png" group-title="NBA",• NBA TV
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelsport.to/psportsgate/psportsgate100/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.10|15:30ET - Celtics vs Knicks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NBA.png" group-title="NBA",5.10|15:30ET - Celtics vs Knicks
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=Fmn7_f-L_P4nAtOoNDFhXQ&expires=1746933052
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.10|20:30ET - Timberwolves vs Warriors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NBA.png" group-title="NBA",5.10|20:30ET - Timberwolves vs Warriors
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -112,13 +112,13 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTRiNGZkMDY4MmQxLWY3Yzg
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL",• NFL Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NFL.png" group-title="NFL",• NFL Network
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nfl.png" group-title="NFL",•• NFL Redzone
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NFL.png" group-title="NFL",•• NFL Redzone
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -128,19 +128,19 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 #############################################################################################################################
 ############################################################ NHL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL",• NHL NETWORK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NHL.png" group-title="NHL",• NHL NETWORK
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL",5.10|18:00ET - Washington Capitals vs Carolina Hurricanes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NHL.png" group-title="NHL",5.10|18:00ET - Washington Capitals vs Carolina Hurricanes
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.3179.54
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=TD8reXFwarCGQXLAUXkEJQ&expires=1746925200&net=MTczLjIxMS4wLjE0OA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nhl.png" group-title="NHL",5.10|21:00ET - Vegas Golden Knights vs Edmonton Oilers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/NHL.png" group-title="NHL",5.10|21:00ET - Vegas Golden Knights vs Edmonton Oilers
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.3179.54
@@ -150,14 +150,14 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItM
 ################################################################################################################################
 ############################################################ TENNIS ############################################################
 ################################################################################################################################
-#EXTINF:-1-name="ATP Rome v Grand Stand Arena Nardi - De Minaur" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-tennis.png" group-title="Tennis",03:00 AM - ATP Rome v Grand Stand Arena Nardi - De Minaur [Bravo] - (11/05/2025)
+#EXTINF:-1-name="ATP Rome v Grand Stand Arena Nardi - De Minaur" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/Tennis.png" group-title="Tennis",03:00 AM - ATP Rome v Grand Stand Arena Nardi - De Minaur [Bravo] - (11/05/2025)
 #https://rr.vipstreams.in/Bravo/js/1746896400000-atp-rome-grand-stand-arena-nardi-de-minaur/1/playlist.m3u8
 
 
 #############################################################################################################################
 ############################################################ UFC ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-ufc.png" group-title="UFC",• UFC Fight Pass [UK]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/UFC.png" group-title="UFC",• UFC Fight Pass [UK]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yOSgn52.jpeg" group-title="UFC",5.10|18:30ET - UFC 315
@@ -170,7 +170,7 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDg
 ##############################################################################################################################
 ############################################################ MISC ############################################################
 ##############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-misc.png" group-title="Misc",5.10|17:00ET - WWE: Backlash
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/main/Logo/MISC.png" group-title="Misc",5.10|17:00ET - WWE: Backlash
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
