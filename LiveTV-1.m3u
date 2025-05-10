@@ -1,47 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"
 
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV",WWE Backlash | 2025-05-10T21:10:00Z
-https://v8.thetvapp.to/hls/PPV01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://placehold.co/320x320/2d2d2d/ffffff.png?text=?&font=roboto" group-title="PPV",UFC 315 |  Belal Muhammad v Jack Della Maddalena:2025-05-11T00:00:00Z
-https://v15.thetvapp.to/hls/tnt-sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Washington Capitals @ Carolina Hurricanes | 2025-05-10T22:10:00Z
-https://v12.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nhl-logo.png" group-title="NHL",Vegas Golden Knights @ Edmonton Oilers | 2025-05-11T01:10:00Z
-https://v14.thetvapp.to/hls/TNTEast/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Boston Celtics @ New York Knicks | 2025-05-10T19:30:00Z
-https://v13.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/nba-logo.png" group-title="NBA",Minnesota Timberwolves @ Golden State Warriors | 2025-05-11T00:35:00Z
-https://v15.thetvapp.to/hls/WABCDT1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Chicago Cubs @ New York Mets | 2025-05-10T23:16:00Z
-https://v17.thetvapp.to/hls/mlb-24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Baltimore Orioles @ Los Angeles Angels | 2025-05-11T01:38:00Z
-https://v1.thetvapp.to/hls/mlb-29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Miami Marlins @ Chicago White Sox | 2025-05-10T23:10:00Z
-https://v17.thetvapp.to/hls/mlb-03/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Atlanta Braves @ Pittsburgh Pirates | 2025-05-10T20:05:00Z
-https://v1.thetvapp.to/hls/mlb-26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",San Francisco Giants @ Minnesota Twins | 2025-05-10T23:15:00Z
-https://v12.thetvapp.to/hls/mlb-20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Cincinnati Reds @ Houston Astros | 2025-05-10T23:10:00Z
-https://v3.thetvapp.to/hls/mlb-06/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Texas Rangers @ Detroit Tigers | 2025-05-10T22:10:00Z
-https://v17.thetvapp.to/hls/mlb-21/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",San Diego Padres @ Colorado Rockies | 2025-05-11T00:10:00Z
-https://v2.thetvapp.to/hls/mlb-25/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Boston Red Sox @ Kansas City Royals | 2025-05-10T23:10:00Z
-https://v1.thetvapp.to/hls/mlb-05/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Milwaukee Brewers @ Tampa Bay Rays | 2025-05-10T20:10:00Z
-https://v2.thetvapp.to/hls/mlb-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Toronto Blue Jays @ Seattle Mariners | 2025-05-11T01:40:00Z
-https://v8.thetvapp.to/hls/mlb-10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Los Angeles Dodgers @ Arizona Diamondbacks | 2025-05-11T00:10:00Z
-https://v1.thetvapp.to/hls/mlb-09/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",Philadelphia Phillies @ Cleveland Guardians | 2025-05-10T22:10:00Z
-https://v18.thetvapp.to/hls/mlb-30/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",St. Louis Cardinals @ Washington Nationals | 2025-05-10T20:05:00Z
-https://v3.thetvapp.to/hls/mlb-01/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/main/imgs/mlb-logo.png" group-title="MLB",New York Yankees @ Oakland Athletics | 2025-05-10T20:05:00Z
-https://v1.thetvapp.to/hls/mlb-19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="Live TV" tvg-id="A.and.E.US.-.Eastern.Feed.us",A&E
 https://v4.thetvapp.to/hls/AEEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Live TV" tvg-id="ABC.(KABC).Los.Angeles,.CA.us",ABC (KABC) Los Angeles
