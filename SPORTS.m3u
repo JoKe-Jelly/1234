@@ -96,17 +96,17 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://locked.pixelsport.to/psportsgate/psportsgate100/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.9|19:30ET - Cavaliers vs Pacers
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.10|15:30ET - Celtics vs Knicks
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmIzODJhNTBmNGZmLWRhOWEtMzYxNC0zYjBkLWI3NDUyODkz/master.m3u8?md5=RcmgxHQj54azHy9LIK4x3g&expires=1746842808
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=Fmn7_f-L_P4nAtOoNDFhXQ&expires=1746933052
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.9|20:00ET - Thunder vs Nuggets
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-nba.png" group-title="NBA",5.10|20:30ET - Timberwolves vs Warriors
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=RcmgxHQj54azHy9LIK4x3g&expires=1746842808
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTRiNGZkMDY4MmQxLWY3YzgtZGVhNC0xMTNkLTRkYTg4MGFh/master.m3u8?md5=H0yGBMnXHbcbfNDQDbV7Fw&expires=1746933053
 
 
 #############################################################################################################################
@@ -163,5 +163,8 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDg
 ##############################################################################################################################
 ############################################################ MISC ############################################################
 ##############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-misc.png" group-title="Misc",5.9|1400ET - Boxing: Fury vs Hanjalic
-https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CM5kTOxMTNhljNjVWLwU2Yi1iNiVGNtEWZldTLyIjMwkTN2EzL.m3u8?md5=0IyM8rkovoet5EIxiHMREQ&expires=1746862901
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/IPTV/refs/heads/main/logo-misc.png" group-title="Misc",5.10|17:00ET - WWE: Backlash
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGE3NDFjOTVjOWQwLTQ0N2EtNjcyNC1mYzA4LTE4Y2MyYWVm/master.m3u8?md5=_GxuSm2MyHN99IAfvcsV_A&expires=1746932400&net=MTczLjIxMS4wLjE0OA%3D%3D
