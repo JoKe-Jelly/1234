@@ -47,7 +47,7 @@ https://v5.thetvapp.to/hls/CMTEast/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Live TV" tvg-id="CNBC.USA.us",CNBC USA
 https://v8.thetvapp.to/hls/CNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Live TV" tvg-id="CNN.us",CNN US
-https://v14.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
+https://v4.thetvapp.to/hls/CNN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="Live TV" tvg-id="CW.(KFMB-TV2).San.Diego,.CA.us",CW (WUCW) (KFMB-TV2) San Diego
 https://v14.thetvapp.to/hls/cw-kfmbtv2-san-diego-ca/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="Live TV" tvg-id="CW.(WDCW).District.of.Columbia.us",CW (WDCW) District of Columbia
