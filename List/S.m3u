@@ -42,7 +42,7 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTg
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
+https://vp.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MLB",5.7|12:05ET - Cleveland Guardians vs Washington Nationals
 #EXTVLCOPT:http-origin=https://ppv.wtf
@@ -58,7 +58,7 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelsport.to/psportsgate/psportsgate100/1.m3u8
+https://vp.pixelsport.to/psportsgate/psportsgate100/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.16|20:00ET - Celtics vs Knicks
 #EXTVLCOPT:http-origin=https://ppv.wtf
@@ -71,10 +71,10 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/1.m3u8
 ############################################################ NFL ############################################################
 #############################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="NFL",• NFL Network
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-referrer=https://thetvapp.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://v14.thetvapp.to/hls/NFLNetwork/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-origin=https://pixelsport.tv
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+https://vp.pixelsport.to/psportsgate/psportsgate100/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="NFL",•• NFL Redzone
 #EXTVLCOPT:http-origin=https://thetvapp.to
@@ -90,7 +90,7 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
+https://vp.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.16|20:00ET - Toronto Maple Leafs vs Florida Panthers
 #EXTVLCOPT:http-origin=https://ppv.wtf
