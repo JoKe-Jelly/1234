@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
 
 ##################################################################################################################################
 ############################################################ • Live Networks •
@@ -18,7 +18,7 @@ https://a1xs.vip/40000014
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/ESPNU.png" group-title="• Live Networks •",ESPN U
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/5402
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="• Live Networks •",Formula 1 - Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="• Live Networks •",Formula 1 - Sky Sports F1
 https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="• Live Networks •",MLB TV
