@@ -1,5 +1,24 @@
 #EXTM3U
 
+##############################################################################################################################
+############################################################ ESPN ############################################################
+##############################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/espn.png" group-title="ESPN",ESPN 1
+http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/5398
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/espn2.png" group-title="ESPN",ESPN 2
+http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/5399
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/espn3.png" group-title="ESPN",ESPN 3
+http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/5400
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/espnews.png" group-title="ESPN",ESPNEWS
+https://a1xs.vip/40000014
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/espnu.png" group-title="ESPN",ESPN U
+http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/5402
+
+
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
