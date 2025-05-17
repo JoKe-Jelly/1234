@@ -99,11 +99,10 @@ https://vp.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",• UFC Fight Pass [UK]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",5.17|16:00ET - UFC Fight Night [Prelims]
-https://rr.vipstreams.in/Alpha/js/ufc-fight-night-prelims/1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",5.17|19:00ET - UFC Fight Night [Main]
-https://rr.vipstreams.in/Alpha/js/ufc-fight-night-gilbert-burns-vs-michael-morales/1/playlist.m3u8
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=yKjxKQP_36j-Uoys8y3KSQ&expires=1747559734
 
 
 ##############################################################################################################################
