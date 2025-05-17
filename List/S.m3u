@@ -18,9 +18,6 @@ https://a1xs.vip/40000014
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/ESPNU.png" group-title="• Live Networks •",ESPN U
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/5402
 
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Formula 1 - Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="• Live Networks •",Formula 1 - Sky Sports F1
-https://a1xs.vip/2000005
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="• Live Networks •",MLB TV
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -44,6 +41,9 @@ https://vp.pixelsport.to/psportsgate/psportsgate100/2.m3u8
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://vp.pixelsport.to/psportsgate/psportsgate100/4.m3u8
+
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="• Live Networks •",Sky Sports F1
+https://a1xs.vip/2000005
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="• Live Networks •",UFC Fight Pass [UK]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
