@@ -84,7 +84,7 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-origin=https://pixelsport.tv
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
+https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.16|20:00ET - Toronto Maple Leafs vs Florida Panthers
 #EXTVLCOPT:http-origin=https://ppv.wtf
@@ -96,7 +96,7 @@ https://v12.thetvapp.to/hls/NFLRedZone/tracks-v1a1/mono.m3u8
 ################################################################################################################################
 ############################################################ TENNIS ############################################################
 ################################################################################################################################
-#EXTINF:-1-name="ATP Rome v Grand Stand Arena Nardi - De Minaur" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Tennis.png" group-title="Tennis",03:00 AM - ATP Rome v Grand Stand Arena Nardi - De Minaur [Bravo] - (11/05/2025)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Tennis.png" group-title="Tennis",03:00 AM - ATP Rome v Grand Stand Arena Nardi - De Minaur [Bravo] - (11/05/2025)
 #https://rr.vipstreams.in/Bravo/js/1746896400000-atp-rome-grand-stand-arena-nardi-de-minaur/1/playlist.m3u8
 
 
