@@ -112,10 +112,10 @@ https://locked.pixelsport.to/psportsgate/psportsgate100/4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",• UFC Fight Pass [UK]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="Misc",5.17|16:00ET - UFC Fight Night [Prelims]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",5.17|16:00ET - UFC Fight Night [Prelims]
 https://rr.vipstreams.in/Alpha/js/ufc-fight-night-prelims/1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="Misc",5.17|19:00ET - UFC Fight Night [Main]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",5.17|19:00ET - UFC Fight Night [Main]
 https://rr.vipstreams.in/Alpha/js/ufc-fight-night-gilbert-burns-vs-michael-morales/1/playlist.m3u8
 
 
