@@ -48,11 +48,11 @@ https://vp.pixelsport.to/psportsgate/psportsgate100/105.m3u8
 #############################################################################################################################
 ############################################################ NBA ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",• NBA TV
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://vp.pixelsport.to/psportsgate/psportsgate100/1.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/32/1/nba-tv-logo-png_seeklogo-329250.png" group-title="NBA",• NBA TV
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODM4YjkzYzRjZGQ1LTg1ZmItN2M1NC1mZmE4LWY0YTA5NTdl/master.m3u8?auth_key=1747751905-ccfd39dd8e864ab1851a0deb95c7e5e4-00000000000000000000000000000000-928a2267079c5f08577af176761366a3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.20|19:30ET - Timberwolves vs Thunder
 #EXTVLCOPT:http-origin=https://ppv.wtf
