@@ -3,6 +3,12 @@
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="Football",• Sky Sports Premier League
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1747751905-0a288749326240f2aea8c466d0d837a8-00000000000000000000000000000000-c03c029bfcd7393b21d673bc58a68f0d
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",5.20|15:00ET - Crystal Palace vs Wolverhampton Wanderers
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -33,10 +39,10 @@ https://a1xs.vip/2000005
 ############################################################ MLB ############################################################
 #############################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MLB",• MLB TV
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://vp.pixelsport.to/psportsgate/psportsgate100/105.m3u8
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGIxMDU4YWFkNjNkLTcxMWItNDU0NC00YTI0LTk4ZmNiMzQ4/master.m3u8?auth_key=1747751905-c421bf7b5b2b43e58160e79283fa7763-00000000000000000000000000000000-79bac0b68a4144604bab96bda24790c1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MLB",5.7|12:05ET - Cleveland Guardians vs Washington Nationals
 #EXTVLCOPT:http-origin=https://ppv.wtf
@@ -65,20 +71,26 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjk
 ############################################################ NFL ############################################################
 #############################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="NFL",• NFL Network
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://vp.pixelsport.to/psportsgate/psportsgate100/2.m3u8
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzhjOTY4MTkxNGM2LWIyMDktOTJlNC1iNThkLWMxNDQwOTRh/master.m3u8?auth_key=1747751905-a450e5e273a04a3ca155ee8264be22a7-00000000000000000000000000000000-c4f6a8ea9ea65f828dd32af3352fc1aa
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="NFL",• NFL Redzone
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ODc4ZGFjNjdhOGNmLTA2MGEtZTgzNC04MDZiLTk2NWVmNjU1/master.m3u8?auth_key=1747751905-f050ac364db94ab18df24b78239abcb8-00000000000000000000000000000000-bfb9f24d35d291cd4b82a492e7ed05e4
 
 
 #############################################################################################################################
 ############################################################ NHL ############################################################
 #############################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",• NHL NETWORK
-#EXTVLCOPT:http-origin=https://pixelsport.tv
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-https://vp.pixelsport.to/psportsgate/psportsgate100/4.m3u8
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTQzZTE2MTc0NmExLTg3ZjktYTdjNC00OThkLTE4NDRjODBh/master.m3u8?auth_key=1747751905-85f734738a674f10a7b0b8af8860bcac-00000000000000000000000000000000-c6f020ac154a530384cba351a6ce405c
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.20|20:00ET - Florida Panthers vs. Carolina Hurricanes
 #EXTVLCOPT:http-origin=https://ppv.wtf
