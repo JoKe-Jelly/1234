@@ -36,11 +36,18 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2I
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLN.png" group-title="NFL"• NFL Network
+https://a1xs.vip/40000032
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLRZ.png" group-title="NFL"• NFL RedZone
+https://a1xs.vip/40000033
 
 #############################################################################################################################
 ############################################################ NHL ############################################################
 #############################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="NHL"• NHL Network
+https://a1xs.vip/40000034
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.21|20:00ET - Edmonton Oilers vs Dallas Stars
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
