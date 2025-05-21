@@ -23,6 +23,9 @@ https://a1xs.vip/2000005
 #############################################################################################################################
 ############################################################ NBA ############################################################
 #############################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBATV.png" group-title="NBA",• NBA TV
+https://a1xs.vip/40000031
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.21|20:00ET - Pacers vs Knicks
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
