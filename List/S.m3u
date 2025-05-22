@@ -1,8 +1,14 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://bit.ly/a1xepg" tvg-shift=0
 
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/APL1.png" group-title="Football",• Astro Premier League
+https://a1xs.vip/1100030
+
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="Football",• Sky Sports Premier League
+https://a1xs.vip/2000002
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",5.21|15:00ET - Tottenham Hotspur vs Manchester United
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -12,19 +18,19 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTRlYjAwNjVkMTdjLTdlZmI
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
 ###################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSF1.png" group-title="Formula 1",• Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSF1.png" group-title="Formula 1",• Sky Sports F1
 https://a1xs.vip/2000005
 
 #############################################################################################################################
 ############################################################ MLB ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLBN.png" group-title="MLB",• MLB Network
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLBN.png" group-title="MLB",• MLB Network
 https://a1xs.vip/40000030
 
 #############################################################################################################################
 ############################################################ NBA ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBATV.png" group-title="NBA",• NBA TV
+#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBATV.png" group-title="NBA",• NBA TV
 https://a1xs.vip/40000031
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.21|20:00ET - Pacers vs Knicks
@@ -37,16 +43,16 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2I
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLN.png" group-title="NFL",• NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLN.png" group-title="NFL",• NFL Network
 https://a1xs.vip/40000032
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLRZ.png" group-title="NFL",• NFL RedZone
+#EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLRZ.png" group-title="NFL",• NFL RedZone
 https://a1xs.vip/40000033
 
 #############################################################################################################################
 ############################################################ NHL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="NHL",• NHL Network
+#EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="NHL",• NHL Network
 https://a1xs.vip/40000034
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.22|20:00ET - Florida Panthers vs Carolina Hurricanes
