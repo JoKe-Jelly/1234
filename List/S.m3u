@@ -9,17 +9,20 @@ https://a1xs.vip/1100030
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="Football",• Sky Sports Premier League
 https://a1xs.vip/2000002
 
+
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
 ###################################################################################################################################
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSF1.png" group-title="Formula 1",• Sky Sports F1
 https://a1xs.vip/2000005
 
+
 #############################################################################################################################
 ############################################################ MLB ############################################################
 #############################################################################################################################
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLBN.png" group-title="MLB",• MLB Network
 https://a1xs.vip/40000030
+
 
 #############################################################################################################################
 ############################################################ NBA ############################################################
@@ -33,6 +36,7 @@ https://a1xs.vip/40000031
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=unMJCRp1uV5KfLCYzgqGRw&expires=1747968938&t=1747925738
 
+
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
@@ -41,6 +45,7 @@ https://a1xs.vip/40000032
 
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLRZ.png" group-title="NFL",• NFL RedZone
 https://a1xs.vip/40000033
+
 
 #############################################################################################################################
 ############################################################ NHL ############################################################
@@ -66,6 +71,7 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2I
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=Yf7qGiu2dtJ2nI6A_g9oCQ&expires=1748142000&net=MTQ5LjEwMi4yNDIuNDk%3D
 
+
 #############################################################################################################################
 ############################################################ UFC ############################################################
 #############################################################################################################################
@@ -82,26 +88,6 @@ http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
 #EXTVLCOPT:nul.nul
 https://nul.nul
 
-##############################################################################################################################
-############################################################ Test ############################################################
-##############################################################################################################################
-#EXTINF:-1 group-title="• Test",Family Guy
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=Z9sUfSYa_D8rPc85IUOURg&expires=1747969512&t=1747926312
-
-#EXTINF:-1 group-title="• Test",South Park
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=ehdq-tO6J9QW32V_NrEnXg&expires=1737196080&net=NzcuNjkuMjQxLjExMw%3D%3D
-
-#EXTINF:-1 group-title="• Test",The Simpsons
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=ehdq-tO6J9QW32V_NrEnXg&expires=1737196080&net=NzcuNjkuMjQxLjExMw%3D%3D
 
 ##############################################################################################################################
 ########################################################## Networks ##########################################################
