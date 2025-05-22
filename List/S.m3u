@@ -49,24 +49,42 @@ https://a1xs.vip/40000033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="NHL",• NHL Network
 https://a1xs.vip/40000034
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.21|20:00ET - Edmonton Oilers vs Dallas Stars
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=wGl8LAfNx-i5PWIiHxHSaA&expires=1747882800&net=NjIuMjI4Ljk2LjQ0
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.22|20:00ET - Florida Panthers vs Carolina Hurricanes
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=XECKJh0MGpVrVVNOFn95xA&expires=1747969200&net=NjIuMjI4Ljk2LjQ0
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.23|20:00ET - Edmonton Oilers vs Dallas Stars
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=wGl8LAfNx-i5PWIiHxHSaA&expires=1747882800&net=MjAwLjYxLjE2NS4xNzg%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.24|15:00ET - Carolina Hurricanes vs Florida Panthers
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=Yf7qGiu2dtJ2nI6A_g9oCQ&expires=1748142000&net=MTQ5LjEwMi4yNDIuNDk%3D
 
 #############################################################################################################################
 ############################################################ UFC ############################################################
 #############################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",• UFC Fight Pass [UK]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",5.22|0700ET - Road To UFC S04E01
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NmQyNzExOTJjODY4LWNiZDgtZmEwNC1jNjI4LWUwZjcyNGMw/master.m3u8?md5=ZV8V0cSV0v8_C5KSsedfLQ&expires=1747918800&net=MjAwLjYxLjE2NS4xNzg%3D
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",5.22|1000ET - Road To UFC S04E02
+#EXTVLCOPT:http-origin=https://ppv.wtf
+#EXTVLCOPT:http-referrer=https://ppv.wtf/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzRiYWZlMDMxZmJkLTk3NmEtNjk2NC03MWFiLTRiMjRhNjY4/master.m3u8?md5=0kWf0Em2jCHHv0pxz07R9Q&expires=1747929600&net=MjAwLjYxLjE2NS4xNzg%3D
 
 
 ##############################################################################################################################
