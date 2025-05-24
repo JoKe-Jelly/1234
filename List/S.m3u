@@ -36,11 +36,11 @@ https://a1xs.vip/40000030
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBATV.png" group-title="NBA",• NBA TV
 https://a1xs.vip/40000031
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.23|2000ET - Pacers vs Knicks
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.24|2030ET - Thunder vs Timberwolves
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 15_1 like Mac OS X) AppleWebKit/537.36 (KHTML, like Gecko) CriOS/117.0.5938.220 Mobile/15E148 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmI0YTY4NDY0YTExLTY0N2ItYmVjNC04YmFlLTA2YmE0NTlk/master.m3u8?md5=XWqWCe8bmZt7hr20LoCacQ&expires=1748052734&t=1748009534
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 11_6_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Safari/605.1.15
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTZhMTNmYjM2NzE4LTU3NTktNjRhNC0yN2QyLWYwMDk2OGRk/master.m3u8?md5=tnTMM-1cUHdWjAeE8urNGQ&expires=1748142997&t=1748099797
 
 #############################################################################################################################
 ############################################################ NFL ############################################################
@@ -57,12 +57,6 @@ https://a1xs.vip/40000033
 #############################################################################################################################
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="NHL",• NHL Network
 https://a1xs.vip/40000034
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.23|2000ET - Edmonton Oilers vs Dallas Stars
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Redmi 10 Prime; Build/RQ1C.250115.108) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.2478.26 Mobile Safari/537.36 EdgA/124.0.2478.26
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=bHrHErgeRVnk_CIdNPkBlA&expires=1748055600&net=MTgxLjExNS4xNzIuMTY%3D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",5.24|1500ET - Carolina Hurricanes vs Florida Panthers
 #EXTVLCOPT:http-origin=https://ppv.wtf
