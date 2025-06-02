@@ -75,8 +75,11 @@ https://a1xs.vip/40000034
 #############################################################################################################################
 ############################################################ UFC ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",• UFC Fight Pass [UK]
-http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",• UFC Fight Pass
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://mi9hodru2lnlspaswl8regarijequchiy.happy-ending.site/klean/SpOpusPoxiGihEZIYIthiKezorLy0wrO.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdHJlYW1JZCI6IlNwT3B1c1BveGlHaWhFWklZSXRoaUtlem9yTHkwd3JPIiwidHlwZSI6InBsYXlsaXN0X2FjY2VzcyIsImV4cCI6MTc0ODg4NTI1NH0.S0xFQU5FTUJFRA
 
 
 ##############################################################################################################################
