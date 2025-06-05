@@ -9,12 +9,6 @@ https://a1xs.vip/1100030
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="Football",• Sky Sports Premier League
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",6.4|1500ET - Germany vs Portugal
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmFkOWQ4ZjQyMDQ3LWRkYzktNzhlNC0yOGFlLTVhMGEzNjVh/master.m3u8?md5=3DUg-5QfLPQqtnv-NxyiXw&expires=1749085130&t=1749041930
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",6.5|1500ET - Spain vs France
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -54,12 +48,11 @@ https://a1xs.vip/40000030
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBATV.png" group-title="NBA",• NBA TV
 https://a1xs.vip/40000031
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",5.31|2000ET - Knicks vs Pacers [G6]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",6.5|2030ET - Pacers vs Thunder [G1]
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.3179.54
-#https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmIzODJhNTBmNGZmLWRhOWEtMzYxNC0zYjBkLWI3NDUyODkz/master.m3u8?md5=2qOX5JxvLx1S_k5r6StHSA&expires=1748743563&t=1748700363
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=x5JFw7PMFd1bEjdq5AnX3A&expires=1749176421&t=1749133221
 
 #############################################################################################################################
 ############################################################ NFL ############################################################
