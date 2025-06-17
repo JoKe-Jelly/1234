@@ -3,11 +3,32 @@
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/APL1.png" group-title="Football",• Astro Premier League
+#EXTINF:-1  tvg-name="Astro Premier League" tvg-id="Astro.Premier.League.my" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="Football",Astro Premier League
 https://a1xs.vip/1100030
-
+#EXTINF:-1  tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://pixvid.org/images/2025/02/18/Astro_Premier_League_2.webp" group-title="Football",Astro Premier League 2
+https://a1xs.vip/1100031
+#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Football",Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Football",Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="Football",Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="Football",Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:-1  tvg-name="MY: Astro Sports UHD" tvg-id="Astro.Sports.UHD.my" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="Football",MY: Astro Sports UHD
+https://a1xs.vip/9000001
+#EXTINF:-1  tvg-name="Now Sports PL 1 FHD" tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="Football",Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+#EXTINF:-1  tvg-name="Now Sports PL 2 FHD" tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="Football",Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+#EXTINF:-1  tvg-name="Peacock Premier League TV" tvg-id="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png" group-title="Football",Peacock Premier League TV
+https://a1xs.vip/1100021
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="Football",• Sky Sports Premier League
 https://a1xs.vip/2000002
+#EXTINF:-1  tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="Football",Sky Sport PL NZ
+https://a1xs.vip/700008
+#EXTINF:-1  tvg-name="USA Network FHD" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="Football",USA Network FHD
+https://a1xs.vip/1100020
 
 
 ###################################################################################################################################
