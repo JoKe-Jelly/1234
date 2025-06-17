@@ -94,7 +94,7 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",MONTH.DATE|TIME EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",MONTH.DAY|TIME EVENT
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
@@ -113,7 +113,7 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #############################################################################################################################
 ############################################################ MLB ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MLB",MONTH.DATE|TIME EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MLB",MONTH.DAY|TIME EVENT
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
@@ -132,7 +132,7 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #############################################################################################################################
 ############################################################ NFL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="NFL",MONTH.DATE|TIME EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="NFL",MONTH.DAY|TIME EVENT
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
