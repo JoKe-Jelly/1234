@@ -48,6 +48,9 @@ https://a1xs.vip/40000034
 #EXTINF:-1  tvg-name="SEC ESPN Network HD" tvg-id="SEC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="• Networks",SEC Network
 https://a1xs.vip/40000015
 
+#EXTINF:-1  tvg-name="Sky Sports Action FHD" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="• Networks",Sky Sports Action
+https://a1xs.vip/2000011
+
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSF1.png" group-title="• Networks",Sky Sports F1
 https://a1xs.vip/2000016
 
@@ -57,10 +60,25 @@ https://a1xs.vip/2000002
 #EXTINF:-1  tvg-name="Tennis Channel Plus FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="• Networks",Tennis Channel Plus
 https://a1xs.vip/40000041
 
+#EXTINF:-1  tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="• Networks",TSN1
+https://a1xs.vip/6000001
+
+#EXTINF:-1  tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://i.imgur.com/iTSoxQW.png" group-title="• Networks",TSN2
+https://a1xs.vip/6000002
+
+#EXTINF:-1  tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://i.imgur.com/dPMY5Kc.png" group-title="• Networks",TSN3
+https://a1xs.vip/6000003
+
+#EXTINF:-1  tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://i.imgur.com/9EInDNq.png" group-title="• Networks",TSN4
+https://a1xs.vip/6000004
+
+#EXTINF:-1  tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://i.imgur.com/houBcHX.png" group-title="• Networks",TSN5
+https://a1xs.vip/6000005
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="• Networks",UFC [1]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
 
-#EXTINF:-1  tvg-name="UFC" tvg-id="US2900017P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" tvg-chno="2350" group-title="• Networks",UFC [2]
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" group-title="• Networks",UFC [2]
 https://jmp2.uk/sam-US2900017P2.m3u8
 
 
