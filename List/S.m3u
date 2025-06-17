@@ -3,8 +3,32 @@
 ##############################################################################################################################
 ########################################################## Networks ##########################################################
 ##############################################################################################################################
+#EXTINF:-1  tvg-name="ACC Network HD" tvg-id="ACC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="• Networks",ACC Network
+https://a1xs.vip/40000016
+
+#EXTINF:-1  tvg-name="Altitude Sports" tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://pixvid.org/images/2025/02/20/altitude-sports.png" group-title="• Networks",Altitude Sports
+https://a1xs.vip/40000048
+
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/APL1.png" group-title="• Networks",Astro Premier League
 https://a1xs.vip/1100030
+
+#EXTINF:-1  tvg-name="Big Ten Network" tvg-id="Big.Ten.Network.us" tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="• Networks",Big Ten Network
+https://a1xs.vip/40000047
+
+#EXTINF:-1  tvg-name="CBS Sports Network" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="• Networks",CBS Sports Network
+https://a1xs.vip/4000008
+
+#EXTINF:-1  tvg-name="ESPN HD" tvg-id="ESPN.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="• Networks",ESPN
+https://a1xs.vip/40000011
+
+#EXTINF:-1  tvg-name="ESPN2 HD" tvg-id="ESPN2.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="• Networks",ESPN2
+https://a1xs.vip/40000012
+
+#EXTINF:-1  tvg-name="ESPN News HD" tvg-id="ESPN.News.us" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="• Networks",ESPN News
+https://a1xs.vip/40000014
+
+#EXTINF:-1  tvg-name="ESPNU HD" tvg-id="ESPN.U.us" tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="• Networks",ESPNU
+https://a1xs.vip/40000013
 
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLBN.png" group-title="• Networks",MLB Network
 https://a1xs.vip/40000030
@@ -21,14 +45,23 @@ https://a1xs.vip/40000033
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="• Networks",NHL Network
 https://a1xs.vip/40000034
 
+#EXTINF:-1  tvg-name="SEC ESPN Network HD" tvg-id="SEC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="• Networks",SEC Network
+https://a1xs.vip/40000015
+
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="Sky Sports F1 FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSF1.png" group-title="• Networks",Sky Sports F1
 https://a1xs.vip/2000016
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="• Networks",Sky Sports Premier League
 https://a1xs.vip/2000002
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="• Networks",UFC Fight Pass
+#EXTINF:-1  tvg-name="Tennis Channel Plus FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="• Networks",Tennis Channel Plus
+https://a1xs.vip/40000041
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="• Networks",UFC [1]
 http://goldtvhd.tv:8080/group-sky.ddns.net/sH6JbvQ67rxgfddfvvdfc/665037549
+
+#EXTINF:-1  tvg-name="UFC" tvg-id="US2900017P2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2900017P2_20241125T235015SQUARE.png" tvg-chno="2350" group-title="• Networks",UFC [2]
+https://jmp2.uk/sam-US2900017P2.m3u8
 
 
 ##################################################################################################################################
