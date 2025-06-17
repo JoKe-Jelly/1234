@@ -66,6 +66,9 @@ https://a1xs.vip/2000016
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/SSPL.png" group-title="• Networks",Sky Sports Premier League
 https://a1xs.vip/2000002
 
+#EXTINF:-1  tvg-name="Tennis Channel FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="• Networks",Tennis Channel
+https://a1xs.vip/40000040
+
 #EXTINF:-1  tvg-name="Tennis Channel Plus FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="• Networks",Tennis Channel Plus
 https://a1xs.vip/40000041
 
