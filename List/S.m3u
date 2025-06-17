@@ -106,11 +106,10 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
 ###################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="Formula 1",6.15|1400ET F1 Canada Grand Prix
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-#https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=qPJUNYKHi29Wf94hQMYkiw&expires=1749864220&t=1749821020
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="Formula 1",MONTH.DAY|TIME EVENT
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
 
 
 #############################################################################################################################
@@ -125,11 +124,10 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #############################################################################################################################
 ############################################################ NBA ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",6.16|2030ET Pacers vs Thunder [G5]
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=od_5QBEccSZNXrxIH1DF3w&expires=1750171496&t=1750128296
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="NBA",MONTH.DAY|TIME EVENT
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
 
 
 #############################################################################################################################
@@ -154,16 +152,16 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWI
 #############################################################################################################################
 ############################################################ UFC ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",6.14|1900ET - UFC Fight Night
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-#https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzM5YWI2YWVjMWEyLTMwZDgtNjM5NC0yZTZkLTk3NWI5Nzhh/master.m3u8?md5=SbFDkEmHaejw2225JCtYTA&expires=1749983648&t=1749940448
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",MONTH.DAY|TIME EVENT
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
 
 
 ##############################################################################################################################
 ############################################################ MISC ############################################################
 ##############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="MISC",6.13|0830ET - ONE Friday Fights 112
-#https://mvp5cmh5qw-dl.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW01OS9tb25vLm0zdTg=.m3u8
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="MISC",MONTH.DAY|TIME EVENT
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
