@@ -3,6 +3,16 @@
 ##################################################################################################################################
 ############################################################ Football ############################################################
 ##################################################################################################################################
+#EXTINF:-1  tvg-name="RUSH Sports" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/BAzTqQp.png" group-title="FIFA Club World Cup" radio="false",CAR: RUSH Sports
+https://a1xs.vip/2501
+#EXTINF:-1  tvg-name="Channel 5 FHD" tvg-id="Live.Football.us" tvg-logo="https://i.ibb.co/16SnsKq/skychb1800.png" group-title="FIFA Club World Cup" radio="false",UK: Channel 5
+https://a1xs.vip/1000030
+#EXTINF:-1  tvg-name="TBS" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="FIFA Club World Cup" radio="false",US: TBS
+https://a1xs.vip/300038
+#EXTINF:-1  tvg-name="TNT FHD" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" group-title="FIFA Club World Cup" radio="false",US: TNT
+https://a1xs.vip/300001
+#EXTINF:-1  tvg-name="truTV FH" tvg-id="Live.Football.us" tvg-logo="https://i.imgur.com/D9Ofkf5.png" group-title="FIFA Club World Cup" radio="false",US: truTV
+https://a1xs.vip/300002
 #EXTINF:-1  tvg-name="Astro Premier League" tvg-id="Astro.Premier.League.my" tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="Football",Astro Premier League
 https://a1xs.vip/1100030
 #EXTINF:-1  tvg-name="Astro Premier League 2" tvg-id="Astro.Premier.League.2.my" tvg-logo="https://pixvid.org/images/2025/02/18/Astro_Premier_League_2.webp" group-title="Football",Astro Premier League 2
