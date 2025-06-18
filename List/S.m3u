@@ -21,6 +21,9 @@ https://jmp2.uk/sam-US37000017A.m3u8
 #EXTINF:-1  tvg-name="Big Ten Network" tvg-id="Big.Ten.Network.us" tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="• Networks •",Big Ten Network
 https://a1xs.vip/40000047
 
+#EXTINF:-1  tvg-name="CBS Sports HQ" tvg-id="USBB4800005VO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20250325T015132SQUARE.png" group-title="• Networks •",CBS Sports HQ
+https://jmp2.uk/sam-USBB4800005VO.m3u8
+
 #EXTINF:-1  tvg-name="CBS Sports Network" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="• Networks •",CBS Sports Network
 https://a1xs.vip/4000008
 
