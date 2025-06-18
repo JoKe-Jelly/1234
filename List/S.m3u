@@ -129,6 +129,11 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="Football",FIFA CWC Real Madrid vs Al Hilal
+#EXTVLCOPT:http-referrer=https://lefttoplay.xyz/
+#EXTVLCOPT:http-origin=https://lefttoplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+http://mvp5cmh5qw-dl.hf.space/proxy/m3u?url=https://daddylive.dad/stream/stream-338.php
 
 ###################################################################################################################################
 ############################################################ Formula 1 ############################################################
