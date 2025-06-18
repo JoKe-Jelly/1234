@@ -3,6 +3,9 @@
 ##############################################################################################################################
 ########################################################## Networks ##########################################################
 ##############################################################################################################################
+#EXTINF:-1  tvg-name="ACC Digital Network" tvg-id="USBD25000161U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20250304T041450SQUARE.png" group-title="• Networks •",ACC Digital Network
+https://jmp2.uk/sam-USBD25000161U.m3u8
+
 #EXTINF:-1  tvg-name="ACC Network HD" tvg-id="ACC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="• Networks •",ACC Network
 https://a1xs.vip/40000016
 
@@ -11,6 +14,9 @@ https://a1xs.vip/40000048
 
 #EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-name="Astro Premier League" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/APL1.png" group-title="• Networks •",Astro Premier League
 https://a1xs.vip/1100030
+
+#EXTINF:-1  tvg-name="Big 12 Studios" tvg-id="US37000017A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20241210T013843SQUARE.png" group-title="• Networks •",Big 12 Studios
+https://jmp2.uk/sam-US37000017A.m3u8
 
 #EXTINF:-1  tvg-name="Big Ten Network" tvg-id="Big.Ten.Network.us" tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="• Networks •",Big Ten Network
 https://a1xs.vip/40000047
@@ -39,11 +45,17 @@ https://a1xs.vip/40000022
 #EXTINF:-1  tvg-name="Golf Channel USA FHD" tvg-id="Golf.Channel.USA.us" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="• Networks •",Golf Channel
 https://a1xs.vip/40000060
 
+#EXTINF:-1  tvg-name="MLB Channel" tvg-id="US1400001WV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1400001WV_20241028T235657SQUARE.png" group-title="• Networks •",MLB Channel
+https://jmp2.uk/sam-US1400001WV.m3u8
+
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLBN.png" group-title="• Networks •",MLB Network
 https://a1xs.vip/40000030
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBATV.png" group-title="• Networks •",NBA TV
 https://a1xs.vip/40000031
+
+#EXTINF:-1  tvg-name="NFL Channel" tvg-id="US2600007WJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2600007WJ_20250211T021734SQUARE.png" group-title="• Networks •",NFL Channel
+https://jmp2.uk/sam-US2600007WJ.m3u8
 
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFLN.png" group-title="• Networks •",NFL Network
 https://a1xs.vip/40000032
@@ -53,6 +65,12 @@ https://a1xs.vip/40000033
 
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHLN.png" group-title="• Networks •",NHL Network
 https://a1xs.vip/40000034
+
+#EXTINF:-1  tvg-name="NHRA TV" tvg-id="USBC3200019WF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200019WF_20240528T020722SQUARE.png" group-title="• Networks •",NHRA TV
+https://jmp2.uk/sam-USBC3200019WF.m3u8
+
+#EXTINF:-1  tvg-name="PFL" tvg-id="US350000231" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000231_20241119T020436SQUARE.png" group-title="• Networks •",PFL
+https://jmp2.uk/sam-US350000231.m3u8
 
 #EXTINF:-1  tvg-name="SEC ESPN Network HD" tvg-id="SEC.Network.us" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="• Networks •",SEC Network
 https://a1xs.vip/40000015
