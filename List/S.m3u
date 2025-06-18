@@ -42,6 +42,9 @@ https://a1xs.vip/40000013
 #EXTINF:-1  tvg-name="FIFA+" tvg-id="USBD12000255B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20241105T024210SQUARE.png" group-title="• Networks •",FIFA+
 https://jmp2.uk/sam-USBD12000255B.m3u8
 
+#EXTINF:-1  tvg-name="Formula 1 Channel" tvg-id="US600011Q2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20241112T001019SQUARE.png" group-title="• Networks •",Formula 1 Channel
+https://jmp2.uk/sam-US600011Q2.m3u8
+
 #EXTINF:-1  tvg-name="FS1 HD" tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="• Networks •",FS1
 https://a1xs.vip/40000021
 
