@@ -142,11 +142,10 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #############################################################################################################################
 ############################################################ NHL ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",6.17|2000ET Oilers vs Panthers [G6]
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTMyYWI3MGI5MTI0LTk0ZWItMjg4NC0yNGUwLTExYTEyYjYx/master.m3u8?md5=f_my7UyV0jJet15MnuX6pg&expires=1750217400&net=MTQ5LjEwMi4yNDIuNjU%3D
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="NHL",MONTH.DAY|TIME EVENT
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
 
 
 #############################################################################################################################
