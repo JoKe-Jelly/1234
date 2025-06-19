@@ -178,10 +178,11 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #############################################################################################################################
 ############################################################ UFC ############################################################
 #############################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC",MONTH.DAY|TIME EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="UFC | 6.21",1200ET - UFC Fight Night
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
+https://nul.nul
 
 
 ##############################################################################################################################
