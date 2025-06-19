@@ -155,6 +155,12 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://v2.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=Z5pXN06riuPHtgjIQ42iIg&expires=1750325476&user_id=elNVMlNleUhZdzdIU2pBZTN4bXhjNkdlaGZPRWRKSXR0dVNHWGxmaA==
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="6.19 - NBA",2030ET | Thunder vs Pacers [G6]
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
+https://nul.nul
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="6.20 - MISC",0830ET | ONE Friday Fights 113
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
