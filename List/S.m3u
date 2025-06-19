@@ -159,7 +159,7 @@ https://v2.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=Z5pXN06riuPHtg
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
-https://nul.nul
+http://nul.blank
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="6.20 - MISC",0830ET | ONE Friday Fights 113
 #EXTVLCOPT:http-origin=
