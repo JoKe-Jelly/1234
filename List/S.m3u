@@ -124,17 +124,27 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 ##################################################################################################################################
 ##################################################################################################################################
 ##################################################################################################################################
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="MONTH.DAY | Football",TIME - EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="MONTH.DAY - Football",TIME | EVENT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="MONTH.DAY - Formula 1",TIME | EVENT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MONTH.DAY - MLB",TIME | EVENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NCAAF.png" group-title="MONTH.DAY - NCAAF",TIME | EVENT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="MONTH.DAY - NBA",TIME | EVENT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="MONTH.DAY - NFL",TIME | EVENT
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="MONTH.DAY - NHL",TIME | EVENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="MONTH.DAY - MISC",TIME | EVENT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="MONTH.DAY - UFC",TIME | EVENT
+
+#EXTVLCOPT:http-origin=
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=
 ##################################################################################################################################
 ##################################################################################################################################
 ##################################################################################################################################
