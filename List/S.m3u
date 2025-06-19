@@ -126,27 +126,27 @@ https://jmp2.uk/sam-US2900017P2.m3u8
 ##################################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/Football.png" group-title="MONTH.DAY | Football",TIME - EVENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="MONTH.DAY | Formula 1",TIME - EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/F1.png" group-title="MONTH.DAY - Formula 1",TIME | EVENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MONTH.DAY | MLB",TIME - EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MLB.png" group-title="MONTH.DAY - MLB",TIME | EVENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="MONTH.DAY | NBA",TIME - EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NBA.png" group-title="MONTH.DAY - NBA",TIME | EVENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="MONTH.DAY | NFL",TIME - EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NFL.png" group-title="MONTH.DAY - NFL",TIME | EVENT
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="MONTH.DAY | NHL",TIME - EVENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/NHL.png" group-title="MONTH.DAY - NHL",TIME | EVENT
 ##################################################################################################################################
 ##################################################################################################################################
 ##################################################################################################################################
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="6.20 | MISC",0830ET - ONE Friday Fights 113
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/MISC.png" group-title="6.20 - MISC",0830ET | ONE Friday Fights 113
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
 https://nul.nul
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="6.21 | UFC",1200ET - UFC Fight Night
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JoKe-Jelly/1234/main/Logo/UFC.png" group-title="6.21 - UFC",1200ET | UFC Fight Night
 #EXTVLCOPT:http-origin=
 #EXTVLCOPT:http-referrer=
 #EXTVLCOPT:http-user-agent=
